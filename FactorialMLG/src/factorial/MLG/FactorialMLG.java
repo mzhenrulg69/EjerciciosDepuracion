@@ -2,7 +2,7 @@ package FactorialMLG;
 import java.util.*;
 public class FactorialMLG {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { //TODO:realizar cambios//
 		// TODO Auto-generated method stub
 		 // Crear un escáner para leer la entrada del usuario
 		 Scanner scanner = new Scanner(System.in);
